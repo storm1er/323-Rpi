@@ -1,0 +1,34 @@
+{
+  "name": "323rpi",
+  "version": "0.1.0",
+  "title": "323Rpi",
+  "description": "323 Control app",
+  "tags": [],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "plugins": [
+    {
+      "name": "cordova-plugin-bluetooth-serial"
+    },
+    {
+      "name": "cordova-plugin-vibration"
+    },
+    {
+      "name": "de.appplant.cordova.plugin.local-notification",
+      "version": "0.8.4"
+    }
+  ],
+  "index-file": "index.html",
+  "uuid": "9e29f395-5d62-4ef8-82f6-5105a49c35d6",
+  "icon": "app-icon.png",
+  "doc-url": "http://evothings.com/2.2/doc/examples/template-basic-app.html",
+  "long-description": "323 Control app via Rpi and android",
+  "cordova-id": "com.storm.mazda.rpi",
+  "author-name": "Storm1er",
+  "author-email": "le.storm1er@gmail.com",
+  "author-url": "facebook.com/Storm1er"
+}
